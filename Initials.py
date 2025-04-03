@@ -1,0 +1,7 @@
+print(" RRRRRR       KK       KK")
+print(" RR    RR     KK    KK")
+print(" RR     RR    KK KK")
+print(" RRRRRR       KKK")
+print(" RR RR        KK KK")
+print(" RR   RR      KK    KK")
+print(" RR     RR    KK       KK")
