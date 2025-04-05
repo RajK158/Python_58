@@ -1,0 +1,5 @@
+print("Enter your details!!")
+name=str(input("Enter your name: "))
+id=int(input("Enter your id: "))
+addr=str(input("Enter your addr: "))
+print("Data saved successfully")
