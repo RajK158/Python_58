@@ -16,7 +16,7 @@ if currency == "India" or currency=="1":
     money=float(input(" Enter amount in Rupees: "))
     usd= money*0.012
     print("You have total $ ", usd)
-elif currency=="Euro" or currency=="2":
+elif currency=="Euro" or currency =="2":
      money=float(input(" Enter amount in Euros: "))
      usd = money * 1.08
      print("You have total $", usd)
