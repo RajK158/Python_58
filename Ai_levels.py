@@ -1,11 +1,12 @@
 print("!!! Welcome to learn Ai Ml!!!")
 print("\n To learn Ai you need to know python.\n If you are already aware of Python start from level 2 or above.\n If not then start with the level 0")
-print("\n Here are the levels choose any one for more description ")
+print("\n• Here are the levels choose any one for more description ")
 print("🎯 LEVEL 0: Setup & Python Foundations")
 print("🎯 LEVEL 1: DSA + Python")
 print("🎯 LEVEL 2: Math for AI")
 print("🎯 LEVEL 3: Core AI/ML Skills")
 print("🎯 LEVEL 4: Amazing AI Projects (Portfolio Boost)")
+print("🎯 Enter 5: ")
 level=str(input("Select any level to start with.."))
 if level == "level 0" or level == "0" :
     print("""Goal: Get comfortable with Python basics.
