@@ -1,7 +1,7 @@
 # If ph is greater than 7, output "Basic".
 # If ph is less than 7, output "Acidic".
 # Else, output "Neutral"
-ph=int(input("Enter the ph level: "))
+ph=int(input("Enter the ph level between 0-14: "))
 if (ph > 7):
     print("Basic level")
 elif (ph < 7):
