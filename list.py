@@ -16,5 +16,5 @@ mydict = {
 }
 print(mydict)
 
-mytuple=("flowers","fruits","vegetables")
+mytuple=("flowers","fruits","vegetables,")
 print(mytuple)
