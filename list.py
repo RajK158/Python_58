@@ -3,6 +3,11 @@
 #dictionaries
 #tuples
 
+#cinthia
+#python read
+#java read
+#ds160
+
 mylist=["Jawa","Python","Sql","Ai_Ml"]
 print(mylist[1:])
 
