@@ -1,12 +1,7 @@
-#list
-#set
-#dictionaries
-#tuples
-
-#cinthia
-#python read
-#java read
-#ds160
+# List is a collection which is ordered and changeable. Allows duplicate members.
+# Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+# Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+# Dictionary is a collection which is ordered** and changeable. No duplicate members.
 
 mylist=["Jawa","Python","Sql","Ai_Ml"]
 print(mylist[1:])
